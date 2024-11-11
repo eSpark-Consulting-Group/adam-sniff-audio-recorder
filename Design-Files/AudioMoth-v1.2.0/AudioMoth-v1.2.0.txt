@@ -1,16 +1,17 @@
 Board Information Report
 Filename     : S:\adamsniff-audiorecorder\Design-Files\AudioMoth-v1.2.0\AudioMoth-v1.2.0.PcbDoc
-Date         : 11/8/2024
-Time         : 5:17:32 PM
-Time Elapsed : 00:00:01
+Date         : 11/11/2024
+Time         : 5:30:54 PM
+Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 27.94%
-    Connections, 451
-    Connections routed, 126
-    Connections remaining, 325
+    Routing completion, 52.31%
+    Connections, 455
+    Connections routed, 238
+    Connections remaining, 217
 count : 4
 
 Net Track Width, Count
-    7mils, 140
-count : 1
+    7mils, 138
+    10mils, 2
+count : 2
