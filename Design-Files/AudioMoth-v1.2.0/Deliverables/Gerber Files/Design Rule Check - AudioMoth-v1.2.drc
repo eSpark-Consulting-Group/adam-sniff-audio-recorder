@@ -1,13 +1,12 @@
 Protel Design System Design Rule Check
-PCB File : S:\adamsniff-audiorecorder\Design-Files\AudioMoth-v1.2.0\AudioMoth-v1.2.0.PcbDoc
-Date     : 11/13/2024
-Time     : 5:27:59 PM
+PCB File : D:\eSpark-Consultants\adamsniff-audiorecorder\Design-Files\AudioMoth-v1.2.0\AudioMoth-v1.2.0.PcbDoc
+Date     : 11/14/2024
+Time     : 7:09:20 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=590.551mil) (InNetClass('Address_lines')and 
-InNetClass('Data_Lines')and InNetClass('Data_Lines')and InNetClass('Enable_inputs')),(All)
+Processing Rule : Clearance Constraint (Gap=590.551mil) (InNetClass('Address_lines')and  InNetClass('Data_Lines')and InNetClass('Data_Lines')and InNetClass('Enable_inputs')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -22,10 +21,22 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=7mil) (Max=40mil) (Preferred=7mil) (All)
 Rule Violations :0
 
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=7mil) (Max=7mil) (Prefered=7mil)  and Width Constraints (Min=4.782mil) (Max=7mil) (Prefered=7mil) (InDifferentialPairClass('USB_PROGRAM_LINES'))
+Rule Violations :0
+
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
@@ -49,10 +60,13 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('USB_PROGRAM'))
 Rule Violations :0
 
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:16
+Time Elapsed        : 00:00:04
