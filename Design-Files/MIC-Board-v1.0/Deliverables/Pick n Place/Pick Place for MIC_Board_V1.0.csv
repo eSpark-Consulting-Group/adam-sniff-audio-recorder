@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations,,,,,,,,
+S:\adamsniff-audiorecorder\Design-Files\MIC-Board-v1.0\Project Outputs for MIC-Board-v1.0\Pick Place for MIC_Board_V1.0.csv,,,,,,,,
+,,,,,,,,
+========================================================================================================================,,,,,,,,
+File Design Information:,,,,,,,,
+,,,,,,,,
+Date:       27/06/25,,,,,,,,
+Time:       16:55,,,,,,,,
+Revision:   Not in VersionControl,,,,,,,,
+Variant:    No variations,,,,,,,,
+Units used: mm,,,,,,,,
+,,,,,,,,
+Designator,Center-X(mm),Center-Y(mm),Layer,Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Rotation
+C1,9.4234mm,15.1384mm,TopLayer,9.4234mm,15.1384mm,9.4234mm,16.4084mm,270
+C2,5.0038mm,13.6652mm,TopLayer,5.0038mm,13.6652mm,5.4737mm,13.6652mm,180
+C3,3.7846mm,7.1628mm,TopLayer,3.7846mm,7.1628mm,5.0546mm,7.1628mm,180
+C4,9.3726mm,11.2268mm,TopLayer,9.3726mm,11.2268mm,8.1026mm,11.2268mm,0
+C5,13.4239mm,4.4450mm,TopLayer,13.4239mm,4.4450mm,13.8938mm,4.4450mm,180
+C6,13.4239mm,3.2639mm,TopLayer,13.4239mm,3.2639mm,13.8938mm,3.2639mm,180
+C7,13.4239mm,2.0828mm,TopLayer,13.4239mm,2.0828mm,13.8938mm,2.0828mm,180
+C8,2.1844mm,10.3632mm,TopLayer,2.1844mm,10.3632mm,2.1844mm,10.8331mm,270
+C9,5.0038mm,16.1290mm,TopLayer,5.0038mm,16.1290mm,6.2738mm,16.1290mm,180
+R2,7.3660mm,17.8562mm,TopLayer,7.3660mm,17.8562mm,6.8961mm,17.8562mm,0
+R3,10.9982mm,13.4239mm,TopLayer,10.9982mm,13.4239mm,10.9982mm,12.9540mm,90
+R4,7.8486mm,13.4239mm,TopLayer,7.8486mm,13.4239mm,7.8486mm,12.9540mm,90
+R5,9.3599mm,9.0424mm,TopLayer,9.3599mm,9.0424mm,9.3599mm,8.5725mm,90
+R6,10.6934mm,9.0678mm,TopLayer,10.6934mm,9.0678mm,10.6934mm,8.5979mm,90
+R7,8.1534mm,8.9916mm,TopLayer,8.1534mm,8.9916mm,8.1534mm,8.5217mm,90
+R8,3.2512mm,10.3632mm,TopLayer,3.2512mm,10.3632mm,3.2512mm,10.8331mm,270
+R9,6.4262mm,14.0843mm,TopLayer,6.4262mm,14.0843mm,6.4262mm,14.5542mm,270
+U1,5.4864mm,11.1252mm,TopLayer,5.4864mm,11.1252mm,4.5364mm,9.8252mm,90
